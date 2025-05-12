@@ -47,7 +47,7 @@ Always learning, building, and dreaming in code.
 ### 🌍 Find Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/thalíz-fajardo-00026a244)
-- 🌐 [Portfolio (coming soon)](https://6344746020cb875535370a10--radiant-jalebi-d0f66e.netlify.app/) (🚧 In Progress))
+- 🌐 [Portfolio](https://6344746020cb875535370a10--radiant-jalebi-d0f66e.netlify.app/) (🚧 In Progress))
 
 ---
 
