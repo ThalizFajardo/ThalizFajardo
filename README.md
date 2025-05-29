@@ -47,7 +47,7 @@ Always learning, building, and dreaming in code.
 ### 🌍 Find Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thal%C3%ADz-fajardo-00026a244/)
-- 🌐 [Portfolio](https://6344746020cb875535370a10--radiant-jalebi-d0f66e.netlify.app/) (🚧 In Progress))
+- 🌐 [Portfolio](https://dreamy-medovik-b40d34.netlify.app/) (🚧 In Progress))
 
 ---
 
